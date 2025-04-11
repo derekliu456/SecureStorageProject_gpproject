@@ -17,7 +17,7 @@ the init_db is for Initialize Database which should be already done</br>
 
 part i have done</br>
 Data Encryption the upload and download part.</br>
-remind:Encryption Passphrase need to be same when upload and download<-feel free to change it cause i feeling this is wrong</br>
+remind:Encryption Passphrase need to be same when upload and download<-feel free to change it cause i feeling this concept might be wrong</br>
 a simple login and Register. </br>
 test account</br>
 name test123</br>
