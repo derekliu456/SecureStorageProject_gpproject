@@ -1,0 +1,8 @@
+1.add download to the gui <-done
+2.check if the the download file is the original file and context <- done 
+3.add function for user to reset password 
+4.Multi-Factor Authentication (MFA): FIDO2, One-Time Password (OTP), 
+email/phone verification code, etc. <- if possible
+5. When a user uploads a file, the client should encrypt the file using 
+an appropriate cryptosystem, with the key securely generated and 
+stored locally.  <-- check if the client py is doing this part or doing it wrong 
